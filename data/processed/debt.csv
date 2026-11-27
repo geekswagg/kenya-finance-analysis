@@ -40,3 +40,6 @@ debt,abp26,§1.4 printed p.3,2025/26,2026-06-30,actual,external_debt,5684.7,KES_
 debt,abp23,§1.2 printed p.1,2022/23,2023-06-30,provisional_actual,public_debt,10278.67,KES_billion,10278.67,KES_billion,
 debt,abp23,§1.2 printed p.1,2022/23,2023-06-30,provisional_actual,domestic_debt,4832.11,KES_billion,4832.11,KES_billion,
 debt,abp23,§1.2 printed p.1,2022/23,2023-06-30,provisional_actual,external_debt,5446.56,KES_billion,5446.56,KES_billion,
+debt,dm22,"Table 4.0-1, printed p.10, GRAND TOTAL, Jun-2022*",2021/22,2022-06-30,provisional_actual,public_debt,8588281,KES_million,8588.281,KES_billion,External debt includes publicly guaranteed debt.
+debt,dm22,"Table 4.0-1, printed p.10, Total Gross Domestic, Jun-2022*",2021/22,2022-06-30,provisional_actual,domestic_debt,4288333,KES_million,4288.333,KES_billion,External debt includes publicly guaranteed debt.
+debt,dm22,"Table 4.0-1, printed p.10, Total External debt, Jun-2022*",2021/22,2022-06-30,provisional_actual,external_debt,4299948,KES_million,4299.948,KES_billion,External debt includes publicly guaranteed debt.

@@ -258,3 +258,6 @@ risk,dm26,"Table 1, printed p.6",2025/26,2026-06-30,actual,debt_maturing_1yr_to_
 risk,dm26,"Table 1, printed p.6",2025/26,2026-06-30,actual,interest_to_gdp,6.2,percent,6.2,percent,
 risk,dm26,Executive summary p.xvi,2025/26,2026-06-30,actual,debt_maturing_1yr_share,12.5,percent,12.5,percent,
 risk,dm26,Executive summary p.xvi,2025/26,2026-06-30,actual,average_time_to_maturity,8.6,years,8.6,years,
+debt,dm22,"Table 4.0-1, printed p.10, GRAND TOTAL, Jun-2022*",2021/22,2022-06-30,provisional_actual,public_debt,8588281,KES_million,8588.281,KES_billion,External debt includes publicly guaranteed debt.
+debt,dm22,"Table 4.0-1, printed p.10, Total Gross Domestic, Jun-2022*",2021/22,2022-06-30,provisional_actual,domestic_debt,4288333,KES_million,4288.333,KES_billion,External debt includes publicly guaranteed debt.
+debt,dm22,"Table 4.0-1, printed p.10, Total External debt, Jun-2022*",2021/22,2022-06-30,provisional_actual,external_debt,4299948,KES_million,4299.948,KES_billion,External debt includes publicly guaranteed debt.

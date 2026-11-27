@@ -115,5 +115,71 @@
     "metric": "net_financing",
     "reported": 1032.8,
     "expected": 1032.3
+  },
+  {
+    "type": "publication_vintage_difference",
+    "key": [
+      "2021/22",
+      "public_debt",
+      "KES_billion"
+    ],
+    "observations": [
+      {
+        "source_id": "dm22",
+        "source_location": "Table 4.0-1, printed p.10, GRAND TOTAL, Jun-2022*",
+        "status": "provisional_actual",
+        "value": "8588.281"
+      },
+      {
+        "source_id": "dm26",
+        "source_location": "Table 3, printed p.13",
+        "status": "actual",
+        "value": "8761.418"
+      }
+    ]
+  },
+  {
+    "type": "publication_vintage_difference",
+    "key": [
+      "2021/22",
+      "domestic_debt",
+      "KES_billion"
+    ],
+    "observations": [
+      {
+        "source_id": "dm22",
+        "source_location": "Table 4.0-1, printed p.10, Total Gross Domestic, Jun-2022*",
+        "status": "provisional_actual",
+        "value": "4288.333"
+      },
+      {
+        "source_id": "dm26",
+        "source_location": "Table 3, printed p.13",
+        "status": "actual",
+        "value": "4426.627"
+      }
+    ]
+  },
+  {
+    "type": "publication_vintage_difference",
+    "key": [
+      "2021/22",
+      "external_debt",
+      "KES_billion"
+    ],
+    "observations": [
+      {
+        "source_id": "dm22",
+        "source_location": "Table 4.0-1, printed p.10, Total External debt, Jun-2022*",
+        "status": "provisional_actual",
+        "value": "4299.948"
+      },
+      {
+        "source_id": "dm26",
+        "source_location": "Table 3, printed p.13",
+        "status": "actual",
+        "value": "4334.791"
+      }
+    ]
   }
 ]

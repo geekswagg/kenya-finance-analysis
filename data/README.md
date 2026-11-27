@@ -13,6 +13,8 @@ Published observations will preserve source locators, reported units and scale, 
 
 ## Treasury starter
 
-The 259 starter observations are derived from public reports issued by the [National Treasury of Kenya](https://www.treasury.go.ke/). Look up each source ID in the [source inventory](metadata/source-inventory.json) and use the printed source location in each row. The repository MIT license covers project code. The Treasury publications retain their original terms. The inventory includes the hashes of locally retained copies and lists the four reports awaiting extraction.
+The 259 starter observations are derived from public reports issued by the [National Treasury of Kenya](https://www.treasury.go.ke/). Look up each source ID in the [source inventory](metadata/source-inventory.json) and use the printed source location in each row. The repository MIT license covers project code. The Treasury publications retain their original terms. The inventory includes the hashes of locally retained copies and identifies the historical reports and their extraction status.
 
 Use one format from `data/processed/`. The domain files are subsets of the master observations file. The root-level observation files belong to the bootstrap schema, which awaits reconciliation with the starter.
+
+The historical debt increment adds three FY 2021/22 provisional debt-stock observations from Table 4.0-1. The combined dataset has 262 observations.

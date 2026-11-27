@@ -14,7 +14,7 @@ The supplied starter is staged under the ignored `data/incoming/starter-v0.1/` d
 
 | Fiscal year | Annual borrowing plan | Annual debt report |
 | --- | --- | --- |
-| 2021/22 | abp21, partial | dm22, pending |
+| 2021/22 | abp21, partial | dm22, debt stocks only |
 | 2022/23 | abp22, partial | dm23, pending |
 | 2023/24 | abp23, partial | dm24, pending |
 | 2024/25 | abp24, partial | dm25, pending |
@@ -40,3 +40,9 @@ Use the existing [Foundation milestone](https://github.com/geekswagg/kenya-finan
 | 5 | [Foundation release](https://github.com/geekswagg/kenya-finance-analysis/issues/5) | Verify DuckDB queries, document known discrepancies and gaps, and confirm release rights before tagging. |
 
 Later work extends historical debt coverage, fiscal actuals and macro indicators. ASP.NET Core and Blazor are scheduled after the data foundation.
+
+## First historical debt increment
+
+The FY 2021/22 report matches the official Treasury download by SHA-256. The June 2022 column of Table 4.0-1 (printed page 10) was visually checked. The import adds three provisional stocks in KES million, with row and column locators. External debt includes publicly guaranteed debt. Prior-year columns and other line items are outside this increment.
+
+The validator checks the domestic and external sum against the published total within KES 1 million. The published components sum exactly. Differences against the FY 2025/26 report's FY 2021/22 figures are retained as three publication-vintage review flags.

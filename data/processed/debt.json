@@ -572,5 +572,47 @@
     "value": 5446.56,
     "unit": "KES_billion",
     "notes": ""
+  },
+  {
+    "domain": "debt",
+    "source_id": "dm22",
+    "source_location": "Table 4.0-1, printed p.10, GRAND TOTAL, Jun-2022*",
+    "fiscal_year": "2021/22",
+    "period_end": "2022-06-30",
+    "status": "provisional_actual",
+    "metric": "public_debt",
+    "reported_value": "8588281",
+    "reported_unit": "KES_million",
+    "value": 8588.281,
+    "unit": "KES_billion",
+    "notes": "External debt includes publicly guaranteed debt."
+  },
+  {
+    "domain": "debt",
+    "source_id": "dm22",
+    "source_location": "Table 4.0-1, printed p.10, Total Gross Domestic, Jun-2022*",
+    "fiscal_year": "2021/22",
+    "period_end": "2022-06-30",
+    "status": "provisional_actual",
+    "metric": "domestic_debt",
+    "reported_value": "4288333",
+    "reported_unit": "KES_million",
+    "value": 4288.333,
+    "unit": "KES_billion",
+    "notes": "External debt includes publicly guaranteed debt."
+  },
+  {
+    "domain": "debt",
+    "source_id": "dm22",
+    "source_location": "Table 4.0-1, printed p.10, Total External debt, Jun-2022*",
+    "fiscal_year": "2021/22",
+    "period_end": "2022-06-30",
+    "status": "provisional_actual",
+    "metric": "external_debt",
+    "reported_value": "4299948",
+    "reported_unit": "KES_million",
+    "value": 4299.948,
+    "unit": "KES_billion",
+    "notes": "External debt includes publicly guaranteed debt."
   }
 ]
