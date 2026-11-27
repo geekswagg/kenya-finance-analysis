@@ -1,0 +1,9 @@
+data/incoming/
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+.env.*
+*.duckdb
+[Bb]in/
+[Oo]bj/
