@@ -1,0 +1,44 @@
+[
+  {
+    "source_id": "abp21",
+    "filename": "Anual Borrowing Plan-FY2021-2022.pdf",
+    "publication_month": "2022-04",
+    "sha256": "8f26f506f28b1a81da449b89afbee2a543491866107852822a72942a4398862b"
+  },
+  {
+    "source_id": "abp22",
+    "filename": "Annual-Borrowing-Plan-22-2023.pdf",
+    "publication_month": "2022-07",
+    "sha256": "54ebacebd6a7af6d346d2b85b072c0067d8fb50058546316fc486855bf2bb14a"
+  },
+  {
+    "source_id": "abp23",
+    "filename": "2023-Annual-Borrowing-Plan.pdf",
+    "publication_month": "2023-12",
+    "sha256": "e511b628301ec87d2f916c419be5012ce6be974860eca364e870420835a71b94"
+  },
+  {
+    "source_id": "abp24",
+    "filename": "Annual-Borrowing-Plan-FY2024_2025.pdf",
+    "publication_month": "2024-08",
+    "sha256": "d57b38cc112a4fef80684805aa5d8550b44f110461fbb70215ce0cde75aa93b2"
+  },
+  {
+    "source_id": "abp25",
+    "filename": "Annual Borrowing Plan for FY2025-2026 Final Version.pdf",
+    "publication_month": "2025-08",
+    "sha256": "cf9751615bb78c68f6b2dbec84d077d2db66832b6ea266b93b3d57ad9caecb3a"
+  },
+  {
+    "source_id": "abp26",
+    "filename": "Annual Borrowing Plan FY 2026-2027.pdf",
+    "publication_month": "2026-07",
+    "sha256": "737399f9da3ba23c5752b400db1753279704fe57237eb8e14affd1f9e9547a39"
+  },
+  {
+    "source_id": "dm26",
+    "filename": "Annual Debt Management Reports 2025-2026.pdf",
+    "publication_month": null,
+    "sha256": "169db86cc5fe4ae00bccefd5e030a37a9f5126a5010f20dd16d07cdcb13dd85f"
+  }
+]

@@ -1,0 +1,9 @@
+domain,source_id,source_location,fiscal_year,period_end,status,metric,reported_value,reported_unit,value,unit,notes
+risk,dm26,"Table 1, printed p.6",2025/26,2026-06-30,revised_target,debt_maturing_1yr_share,11.9,percent,11.9,percent,
+risk,dm26,"Table 1, printed p.6",2025/26,2026-06-30,revised_target,debt_maturing_1yr_to_gdp,7.5,percent,7.5,percent,
+risk,dm26,"Table 1, printed p.6",2025/26,2026-06-30,revised_target,interest_to_gdp,5.1,percent,5.1,percent,
+risk,dm26,"Table 1, printed p.6",2025/26,2026-06-30,actual,debt_maturing_1yr_share,12.7,percent,12.7,percent,
+risk,dm26,"Table 1, printed p.6",2025/26,2026-06-30,actual,debt_maturing_1yr_to_gdp,9.7,percent,9.7,percent,
+risk,dm26,"Table 1, printed p.6",2025/26,2026-06-30,actual,interest_to_gdp,6.2,percent,6.2,percent,
+risk,dm26,Executive summary p.xvi,2025/26,2026-06-30,actual,debt_maturing_1yr_share,12.5,percent,12.5,percent,
+risk,dm26,Executive summary p.xvi,2025/26,2026-06-30,actual,average_time_to_maturity,8.6,years,8.6,years,

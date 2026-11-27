@@ -1,0 +1,288 @@
+{
+  "fields": {
+    "domain": "Analytical domain",
+    "source_id": "Source registry key",
+    "source_location": "Printed page/table or section",
+    "fiscal_year": "July\u2013June fiscal year",
+    "period_end": "Fiscal year end ISO date",
+    "status": "Observation classification",
+    "metric": "Stable metric identifier",
+    "reported_value": "Transcribed magnitude in source unit; see README sign convention",
+    "reported_unit": "Source unit",
+    "value": "Normalized numeric value",
+    "unit": "Normalized unit",
+    "notes": "Scope and interpretation notes"
+  },
+  "metrics": {
+    "average_time_to_maturity": {
+      "units": [
+        "years"
+      ],
+      "label": "average time to maturity"
+    },
+    "bilateral": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "bilateral"
+    },
+    "commercial": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "commercial"
+    },
+    "debt_maturing_1yr_share": {
+      "units": [
+        "percent"
+      ],
+      "label": "debt maturing 1yr share"
+    },
+    "debt_maturing_1yr_to_gdp": {
+      "units": [
+        "percent"
+      ],
+      "label": "debt maturing 1yr to gdp"
+    },
+    "debt_service_to_ordinary_revenue": {
+      "units": [
+        "percent"
+      ],
+      "label": "debt service to ordinary revenue"
+    },
+    "debt_to_gdp": {
+      "units": [
+        "percent"
+      ],
+      "label": "debt to gdp"
+    },
+    "deficit_to_gdp": {
+      "units": [
+        "percent"
+      ],
+      "label": "deficit to gdp"
+    },
+    "domestic_debt": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "domestic debt"
+    },
+    "domestic_debt_service": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "domestic debt service"
+    },
+    "domestic_interest": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "domestic interest"
+    },
+    "domestic_principal": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "domestic principal"
+    },
+    "external_debt": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "external debt"
+    },
+    "external_debt_service": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "external debt service"
+    },
+    "external_debt_total": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "external debt total"
+    },
+    "external_interest": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "external interest"
+    },
+    "external_principal": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "external principal"
+    },
+    "fiscal_balance_to_gdp": {
+      "units": [
+        "percent"
+      ],
+      "label": "fiscal balance to gdp"
+    },
+    "fiscal_deficit": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "fiscal deficit"
+    },
+    "gdp_deflator": {
+      "units": [
+        "percent"
+      ],
+      "label": "gdp deflator"
+    },
+    "grants": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "grants"
+    },
+    "gross_financing": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "gross financing"
+    },
+    "guaranteed_bilateral": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "guaranteed bilateral"
+    },
+    "guaranteed_commercial": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "guaranteed commercial"
+    },
+    "inflation": {
+      "units": [
+        "percent"
+      ],
+      "label": "inflation"
+    },
+    "interest_to_gdp": {
+      "units": [
+        "percent"
+      ],
+      "label": "interest to gdp"
+    },
+    "interest_to_ordinary_revenue": {
+      "units": [
+        "percent"
+      ],
+      "label": "interest to ordinary revenue"
+    },
+    "multilateral": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "multilateral"
+    },
+    "net_domestic_financing": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "net domestic financing"
+    },
+    "net_external_financing": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "net external financing"
+    },
+    "net_financing": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "net financing"
+    },
+    "nominal_gdp": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "nominal gdp"
+    },
+    "ordinary_revenue": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "ordinary revenue"
+    },
+    "primary_balance": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "primary balance"
+    },
+    "primary_expenditure": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "primary expenditure"
+    },
+    "public_debt": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "public debt"
+    },
+    "pv_debt_to_gdp": {
+      "units": [
+        "percent"
+      ],
+      "label": "pv debt to gdp"
+    },
+    "real_gdp_growth": {
+      "units": [
+        "percent"
+      ],
+      "label": "real gdp growth"
+    },
+    "revenue": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "revenue"
+    },
+    "revenue_and_grants": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "revenue and grants"
+    },
+    "suppliers_credit": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "suppliers credit"
+    },
+    "total_debt_service": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "total debt service"
+    },
+    "total_expenditure": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "total expenditure"
+    },
+    "total_interest": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "total interest"
+    },
+    "total_principal": {
+      "units": [
+        "KES_billion"
+      ],
+      "label": "total principal"
+    }
+  }
+}

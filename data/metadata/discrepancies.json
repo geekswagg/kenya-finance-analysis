@@ -1,0 +1,119 @@
+[
+  {
+    "type": "different_observations",
+    "key": [
+      "2024/25",
+      "actual",
+      "net_financing",
+      "KES_billion"
+    ],
+    "observations": [
+      {
+        "source_id": "abp25",
+        "source_location": "\u00a72 Review of prior plan",
+        "value": "1032.8"
+      },
+      {
+        "source_id": "dm26",
+        "source_location": "Table 2, printed p.10",
+        "value": "1034.2"
+      }
+    ]
+  },
+  {
+    "type": "different_observations",
+    "key": [
+      "2024/25",
+      "actual",
+      "net_external_financing",
+      "KES_billion"
+    ],
+    "observations": [
+      {
+        "source_id": "abp25",
+        "source_location": "\u00a72 Review of prior plan",
+        "value": "178.9"
+      },
+      {
+        "source_id": "dm26",
+        "source_location": "Table 2, printed p.10",
+        "value": "179.7"
+      }
+    ]
+  },
+  {
+    "type": "different_observations",
+    "key": [
+      "2025/26",
+      "actual",
+      "net_financing",
+      "KES_billion"
+    ],
+    "observations": [
+      {
+        "source_id": "abp26",
+        "source_location": "\u00a72 Review of prior plan",
+        "value": "1252.5"
+      },
+      {
+        "source_id": "dm26",
+        "source_location": "Table 2, printed p.10",
+        "value": "1251.1"
+      }
+    ]
+  },
+  {
+    "type": "different_observations",
+    "key": [
+      "2025/26",
+      "actual",
+      "net_external_financing",
+      "KES_billion"
+    ],
+    "observations": [
+      {
+        "source_id": "abp26",
+        "source_location": "\u00a72 Review of prior plan",
+        "value": "267.3"
+      },
+      {
+        "source_id": "dm26",
+        "source_location": "Table 2, printed p.10",
+        "value": "267.4"
+      }
+    ]
+  },
+  {
+    "type": "different_observations",
+    "key": [
+      "2025/26",
+      "actual",
+      "debt_maturing_1yr_share",
+      "percent"
+    ],
+    "observations": [
+      {
+        "source_id": "dm26",
+        "source_location": "Table 1, printed p.6",
+        "value": "12.7"
+      },
+      {
+        "source_id": "dm26",
+        "source_location": "Executive summary p.xvi",
+        "value": "12.5"
+      }
+    ]
+  },
+  {
+    "type": "identity_variance",
+    "key": [
+      "abp25",
+      "\u00a72 Review of prior plan",
+      "2024/25",
+      "actual"
+    ],
+    "metric": "net_financing",
+    "reported": 1032.8,
+    "expected": 1032.3
+  }
+]
