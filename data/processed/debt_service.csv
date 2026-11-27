@@ -1,0 +1,56 @@
+domain,source_id,source_location,fiscal_year,period_end,status,metric,reported_value,reported_unit,value,unit,notes
+debt_service,dm26,"Table 4, printed pp.15–16",2021/22,2022-06-30,actual,total_debt_service,917778,KES_million,917.778,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2022/23,2023-06-30,actual,total_debt_service,1202075,KES_million,1202.075,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2023/24,2024-06-30,actual,total_debt_service,1580766,KES_million,1580.766,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2024/25,2025-06-30,actual,total_debt_service,1722104,KES_million,1722.104,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2025/26,2026-06-30,actual,total_debt_service,1872138,KES_million,1872.138,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2021/22,2022-06-30,actual,total_interest,577979,KES_million,577.979,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2022/23,2023-06-30,actual,total_interest,689327,KES_million,689.327,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2023/24,2024-06-30,actual,total_interest,843846,KES_million,843.846,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2024/25,2025-06-30,actual,total_interest,987495,KES_million,987.495,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2025/26,2026-06-30,actual,total_interest,1071589,KES_million,1071.589,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2021/22,2022-06-30,actual,external_debt_service,305666,KES_million,305.666,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2022/23,2023-06-30,actual,external_debt_service,405004,KES_million,405.004,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2023/24,2024-06-30,actual,external_debt_service,773406,KES_million,773.406,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2024/25,2025-06-30,actual,external_debt_service,579042,KES_million,579.042,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2025/26,2026-06-30,actual,external_debt_service,716104,KES_million,716.104,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2021/22,2022-06-30,actual,external_principal,184536,KES_million,184.536,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2022/23,2023-06-30,actual,external_principal,248776,KES_million,248.776,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2023/24,2024-06-30,actual,external_principal,552104,KES_million,552.104,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2024/25,2025-06-30,actual,external_principal,367804,KES_million,367.804,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2025/26,2026-06-30,actual,external_principal,504344,KES_million,504.344,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2021/22,2022-06-30,actual,external_interest,121130,KES_million,121.13,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2022/23,2023-06-30,actual,external_interest,156229,KES_million,156.229,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2023/24,2024-06-30,actual,external_interest,221302,KES_million,221.302,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2024/25,2025-06-30,actual,external_interest,211238,KES_million,211.238,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2025/26,2026-06-30,actual,external_interest,211760,KES_million,211.76,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2021/22,2022-06-30,actual,domestic_debt_service,612112,KES_million,612.112,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2022/23,2023-06-30,actual,domestic_debt_service,797071,KES_million,797.071,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2023/24,2024-06-30,actual,domestic_debt_service,807360,KES_million,807.36,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2024/25,2025-06-30,actual,domestic_debt_service,1143062,KES_million,1143.062,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2025/26,2026-06-30,actual,domestic_debt_service,1156034,KES_million,1156.034,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2021/22,2022-06-30,actual,domestic_interest,456849,KES_million,456.849,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2022/23,2023-06-30,actual,domestic_interest,533098,KES_million,533.098,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2023/24,2024-06-30,actual,domestic_interest,622544,KES_million,622.544,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2024/25,2025-06-30,actual,domestic_interest,776257,KES_million,776.257,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2025/26,2026-06-30,actual,domestic_interest,859829,KES_million,859.829,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2021/22,2022-06-30,actual,domestic_principal,155263,KES_million,155.263,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2022/23,2023-06-30,actual,domestic_principal,263973,KES_million,263.973,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2023/24,2024-06-30,actual,domestic_principal,184816,KES_million,184.816,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2024/25,2025-06-30,actual,domestic_principal,366805,KES_million,366.805,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2025/26,2026-06-30,actual,domestic_principal,296205,KES_million,296.205,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2021/22,2022-06-30,actual,ordinary_revenue,1917911,KES_million,1917.911,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2022/23,2023-06-30,actual,ordinary_revenue,2041119,KES_million,2041.119,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2023/24,2024-06-30,actual,ordinary_revenue,2288921,KES_million,2288.921,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2024/25,2025-06-30,actual,ordinary_revenue,2420174,KES_million,2420.174,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2025/26,2026-06-30,actual,ordinary_revenue,2588401,KES_million,2588.401,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed p.15",2021/22,2022-06-30,actual,debt_service_to_ordinary_revenue,47.9,percent,47.9,percent,
+debt_service,dm26,"Table 4, printed p.15",2022/23,2023-06-30,actual,debt_service_to_ordinary_revenue,58.9,percent,58.9,percent,
+debt_service,dm26,"Table 4, printed p.15",2023/24,2024-06-30,actual,debt_service_to_ordinary_revenue,69.1,percent,69.1,percent,
+debt_service,dm26,"Table 4, printed p.15",2024/25,2025-06-30,actual,debt_service_to_ordinary_revenue,71.2,percent,71.2,percent,
+debt_service,dm26,"Table 4, printed p.15",2025/26,2026-06-30,actual,debt_service_to_ordinary_revenue,72.3,percent,72.3,percent,
+debt_service,dm26,"Table 4, printed p.15",2021/22,2022-06-30,actual,interest_to_ordinary_revenue,30.1,percent,30.1,percent,
+debt_service,dm26,"Table 4, printed p.15",2022/23,2023-06-30,actual,interest_to_ordinary_revenue,33.8,percent,33.8,percent,
+debt_service,dm26,"Table 4, printed p.15",2023/24,2024-06-30,actual,interest_to_ordinary_revenue,36.9,percent,36.9,percent,
+debt_service,dm26,"Table 4, printed p.15",2024/25,2025-06-30,actual,interest_to_ordinary_revenue,40.8,percent,40.8,percent,
+debt_service,dm26,"Table 4, printed p.15",2025/26,2026-06-30,actual,interest_to_ordinary_revenue,41.4,percent,41.4,percent,

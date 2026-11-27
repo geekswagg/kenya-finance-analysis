@@ -18,3 +18,6 @@ jobs:
           python-version: '3.12'
       - run: python -m unittest discover -s pipeline
       - run: python pipeline/validate.py
+      - run: python scripts/build.py
+      - run: python scripts/validate.py
+      - run: git diff --exit-code -- data/processed data/metadata

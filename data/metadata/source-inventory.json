@@ -1,0 +1,90 @@
+[
+  {
+    "source_id": "abp21",
+    "filename": "Anual Borrowing Plan-FY2021-2022.pdf",
+    "publication_month": "2022-04",
+    "sha256": "8f26f506f28b1a81da449b89afbee2a543491866107852822a72942a4398862b",
+    "fiscal_year": "2021/22",
+    "extraction_status": "starter_partial"
+  },
+  {
+    "source_id": "abp22",
+    "filename": "Annual-Borrowing-Plan-22-2023.pdf",
+    "publication_month": "2022-07",
+    "sha256": "54ebacebd6a7af6d346d2b85b072c0067d8fb50058546316fc486855bf2bb14a",
+    "fiscal_year": "2022/23",
+    "extraction_status": "starter_partial"
+  },
+  {
+    "source_id": "abp23",
+    "filename": "2023-Annual-Borrowing-Plan.pdf",
+    "publication_month": "2023-12",
+    "sha256": "e511b628301ec87d2f916c419be5012ce6be974860eca364e870420835a71b94",
+    "fiscal_year": "2023/24",
+    "extraction_status": "starter_partial"
+  },
+  {
+    "source_id": "abp24",
+    "filename": "Annual-Borrowing-Plan-FY2024_2025.pdf",
+    "publication_month": "2024-08",
+    "sha256": "d57b38cc112a4fef80684805aa5d8550b44f110461fbb70215ce0cde75aa93b2",
+    "fiscal_year": "2024/25",
+    "extraction_status": "starter_partial"
+  },
+  {
+    "source_id": "abp25",
+    "filename": "Annual Borrowing Plan for FY2025-2026 Final Version.pdf",
+    "publication_month": "2025-08",
+    "sha256": "cf9751615bb78c68f6b2dbec84d077d2db66832b6ea266b93b3d57ad9caecb3a",
+    "fiscal_year": "2025/26",
+    "extraction_status": "starter_partial"
+  },
+  {
+    "source_id": "abp26",
+    "filename": "Annual Borrowing Plan FY 2026-2027.pdf",
+    "publication_month": "2026-07",
+    "sha256": "737399f9da3ba23c5752b400db1753279704fe57237eb8e14affd1f9e9547a39",
+    "fiscal_year": "2026/27",
+    "extraction_status": "starter_partial"
+  },
+  {
+    "source_id": "dm26",
+    "filename": "Annual Debt Management Reports 2025-2026.pdf",
+    "publication_month": null,
+    "sha256": "169db86cc5fe4ae00bccefd5e030a37a9f5126a5010f20dd16d07cdcb13dd85f",
+    "fiscal_year": "2025/26",
+    "extraction_status": "starter_partial"
+  },
+  {
+    "source_id": "dm22",
+    "filename": "Annual-Public-Debt-Report-2021-2022.pdf",
+    "fiscal_year": "2021/22",
+    "sha256": "5e6202ee3bf78abd666985b5107d3db4befeccf81c544c5cde3aad9d518e68ba",
+    "publication_month": null,
+    "extraction_status": "pending"
+  },
+  {
+    "source_id": "dm23",
+    "filename": "Annual-Public-Debt-Report-2022-2023-Sept-2023.pdf",
+    "fiscal_year": "2022/23",
+    "sha256": "00cf5f2e12e6b6733110d66e130404f63824b42d413b5a67b0250ec734f6eb1e",
+    "publication_month": null,
+    "extraction_status": "pending"
+  },
+  {
+    "source_id": "dm24",
+    "filename": "Annual-Public-Debt-Management-Report-.pdf",
+    "fiscal_year": "2023/24",
+    "sha256": "8d3ede89fa4bb916cf401b6d01b519dfc41538aab8b667ca09fb64080e6417e6",
+    "publication_month": null,
+    "extraction_status": "pending"
+  },
+  {
+    "source_id": "dm25",
+    "filename": "Annual-Public-Debt-Report-2024-2025.pdf",
+    "fiscal_year": "2024/25",
+    "sha256": "871bf6b38ed579e9abc8e6f4fe0cd21ad979116118bde109329dcb35b88e8d48",
+    "publication_month": null,
+    "extraction_status": "pending"
+  }
+]

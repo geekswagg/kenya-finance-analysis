@@ -1,0 +1,260 @@
+domain,source_id,source_location,fiscal_year,period_end,status,metric,reported_value,reported_unit,value,unit,notes
+borrowing,abp21,printed p.3,2021/22,2022-06-30,published_plan,net_financing,1024,KES_billion,1024.0,KES_billion,
+borrowing,abp21,printed p.3,2021/22,2022-06-30,published_plan,net_domestic_financing,664,KES_billion,664.0,KES_billion,
+borrowing,abp21,printed p.3,2021/22,2022-06-30,published_plan,net_external_financing,360,KES_billion,360.0,KES_billion,
+borrowing,abp21,printed p.3,2021/22,2022-06-30,published_plan,deficit_to_gdp,8.1,percent,8.1,percent,
+borrowing,abp22,printed pp.1–2,2022/23,2023-06-30,published_plan,net_financing,862.92,KES_billion,862.92,KES_billion,
+borrowing,abp22,printed pp.1–2,2022/23,2023-06-30,published_plan,net_domestic_financing,582.19,KES_billion,582.19,KES_billion,
+borrowing,abp22,printed pp.1–2,2022/23,2023-06-30,published_plan,net_external_financing,280.73,KES_billion,280.73,KES_billion,
+borrowing,abp22,printed pp.1–2,2022/23,2023-06-30,published_plan,deficit_to_gdp,6.2,percent,6.2,percent,
+borrowing,abp23,printed p.3 §3.1,2023/24,2024-06-30,published_plan,net_financing,861.3,KES_billion,861.3,KES_billion,
+borrowing,abp23,printed p.3 §3.1,2023/24,2024-06-30,published_plan,net_domestic_financing,449.2,KES_billion,449.2,KES_billion,
+borrowing,abp23,printed p.3 §3.1,2023/24,2024-06-30,published_plan,net_external_financing,412.15,KES_billion,412.15,KES_billion,
+borrowing,abp23,printed p.3 §3.1,2023/24,2024-06-30,published_plan,deficit_to_gdp,5.3,percent,5.3,percent,
+borrowing,abp24,printed p.7 §3.2,2024/25,2025-06-30,published_plan,net_financing,768.6,KES_billion,768.6,KES_billion,
+borrowing,abp24,printed p.7 §3.2,2024/25,2025-06-30,published_plan,net_domestic_financing,413.1,KES_billion,413.1,KES_billion,
+borrowing,abp24,printed p.7 §3.2,2024/25,2025-06-30,published_plan,net_external_financing,355.5,KES_billion,355.5,KES_billion,
+borrowing,abp24,printed p.7 §3.2,2024/25,2025-06-30,published_plan,deficit_to_gdp,4.3,percent,4.3,percent,
+borrowing,abp25,printed p.5 §3.2,2025/26,2026-06-30,published_plan,net_financing,901,KES_billion,901.0,KES_billion,
+borrowing,abp25,printed p.5 §3.2,2025/26,2026-06-30,published_plan,net_domestic_financing,613.6,KES_billion,613.6,KES_billion,
+borrowing,abp25,printed p.5 §3.2,2025/26,2026-06-30,published_plan,net_external_financing,287.4,KES_billion,287.4,KES_billion,
+borrowing,abp25,printed p.5 §3.2,2025/26,2026-06-30,published_plan,deficit_to_gdp,4.7,percent,4.7,percent,
+borrowing,abp26,printed p.5 §3.2,2026/27,2027-06-30,published_plan,net_financing,1145.2,KES_billion,1145.2,KES_billion,
+borrowing,abp26,printed p.5 §3.2,2026/27,2027-06-30,published_plan,net_domestic_financing,898,KES_billion,898.0,KES_billion,
+borrowing,abp26,printed p.5 §3.2,2026/27,2027-06-30,published_plan,net_external_financing,247.2,KES_billion,247.2,KES_billion,
+borrowing,abp26,printed p.5 §3.2,2026/27,2027-06-30,published_plan,deficit_to_gdp,5.5,percent,5.5,percent,
+fiscal,abp24,"Table 2, printed p.7",2023/24,2024-06-30,prior_year_comparator,revenue_and_grants,2724699,KES_million,2724.699,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp24,"Table 2, printed p.7",2023/24,2024-06-30,prior_year_comparator,primary_expenditure,2814818,KES_million,2814.818,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp24,"Table 2, printed p.7",2023/24,2024-06-30,prior_year_comparator,primary_balance,-90119,KES_million,-90.119,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp24,"Table 2, printed p.7",2023/24,2024-06-30,prior_year_comparator,domestic_interest,622544,KES_million,622.544,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp24,"Table 2, printed p.7",2023/24,2024-06-30,prior_year_comparator,external_interest,218188,KES_million,218.188,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp24,"Table 2, printed p.7",2023/24,2024-06-30,prior_year_comparator,total_interest,840732,KES_million,840.732,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp24,"Table 2, printed p.7",2023/24,2024-06-30,prior_year_comparator,fiscal_deficit,930851,KES_million,930.851,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp24,"Table 2, printed p.7",2023/24,2024-06-30,prior_year_comparator,domestic_principal,284973,KES_million,284.973,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp24,"Table 2, printed p.7",2023/24,2024-06-30,prior_year_comparator,external_principal,537783,KES_million,537.783,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp24,"Table 2, printed p.7",2023/24,2024-06-30,prior_year_comparator,total_principal,822756,KES_million,822.756,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp24,"Table 2, printed p.7",2023/24,2024-06-30,prior_year_comparator,gross_financing,1753607,KES_million,1753.607,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp24,"Table 2, printed p.7",2024/25,2025-06-30,published_plan,revenue_and_grants,3112254,KES_million,3112.254,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp24,"Table 2, printed p.7",2024/25,2025-06-30,published_plan,primary_expenditure,2870947,KES_million,2870.947,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp24,"Table 2, printed p.7",2024/25,2025-06-30,published_plan,primary_balance,241307,KES_million,241.307,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp24,"Table 2, printed p.7",2024/25,2025-06-30,published_plan,domestic_interest,749970,KES_million,749.97,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp24,"Table 2, printed p.7",2024/25,2025-06-30,published_plan,external_interest,259907,KES_million,259.907,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp24,"Table 2, printed p.7",2024/25,2025-06-30,published_plan,total_interest,1009877,KES_million,1009.877,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp24,"Table 2, printed p.7",2024/25,2025-06-30,published_plan,fiscal_deficit,768570,KES_million,768.57,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp24,"Table 2, printed p.7",2024/25,2025-06-30,published_plan,domestic_principal,569893,KES_million,569.893,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp24,"Table 2, printed p.7",2024/25,2025-06-30,published_plan,external_principal,330711,KES_million,330.711,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp24,"Table 2, printed p.7",2024/25,2025-06-30,published_plan,total_principal,900604,KES_million,900.604,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp24,"Table 2, printed p.7",2024/25,2025-06-30,published_plan,gross_financing,1669174,KES_million,1669.174,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp25,"Table 2, printed p.4",2025/26,2026-06-30,published_plan,revenue_and_grants,3368882,KES_million,3368.882,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp25,"Table 2, printed p.4",2025/26,2026-06-30,published_plan,primary_expenditure,3172179,KES_million,3172.179,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp25,"Table 2, printed p.4",2025/26,2026-06-30,published_plan,primary_balance,196703,KES_million,196.703,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp25,"Table 2, printed p.4",2025/26,2026-06-30,published_plan,domestic_interest,851421,KES_million,851.421,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp25,"Table 2, printed p.4",2025/26,2026-06-30,published_plan,external_interest,246268,KES_million,246.268,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp25,"Table 2, printed p.4",2025/26,2026-06-30,published_plan,total_interest,1097689,KES_million,1097.689,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp25,"Table 2, printed p.4",2025/26,2026-06-30,published_plan,fiscal_deficit,900986,KES_million,900.986,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp25,"Table 2, printed p.4",2025/26,2026-06-30,published_plan,domestic_principal,306161,KES_million,306.161,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp25,"Table 2, printed p.4",2025/26,2026-06-30,published_plan,external_principal,340190,KES_million,340.19,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp25,"Table 2, printed p.4",2025/26,2026-06-30,published_plan,total_principal,646351,KES_million,646.351,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp25,"Table 2, printed p.4",2025/26,2026-06-30,published_plan,gross_financing,1547337,KES_million,1547.337,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp26,"Table 2, printed p.5",2026/27,2027-06-30,published_plan,revenue_and_grants,3674175,KES_million,3674.175,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp26,"Table 2, printed p.5",2026/27,2027-06-30,published_plan,primary_expenditure,3565129,KES_million,3565.129,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp26,"Table 2, printed p.5",2026/27,2027-06-30,published_plan,primary_balance,109047,KES_million,109.047,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp26,"Table 2, printed p.5",2026/27,2027-06-30,published_plan,domestic_interest,986726,KES_million,986.726,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp26,"Table 2, printed p.5",2026/27,2027-06-30,published_plan,external_interest,267512,KES_million,267.512,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp26,"Table 2, printed p.5",2026/27,2027-06-30,published_plan,total_interest,1254238,KES_million,1254.238,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp26,"Table 2, printed p.5",2026/27,2027-06-30,published_plan,fiscal_deficit,1145191,KES_million,1145.191,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp26,"Table 2, printed p.5",2026/27,2027-06-30,published_plan,domestic_principal,438408,KES_million,438.408,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp26,"Table 2, printed p.5",2026/27,2027-06-30,published_plan,external_principal,412870,KES_million,412.87,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp26,"Table 2, printed p.5",2026/27,2027-06-30,published_plan,total_principal,851278,KES_million,851.278,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp26,"Table 2, printed p.5",2026/27,2027-06-30,published_plan,gross_financing,1996469,KES_million,1996.469,KES_billion,"Deficit, principal and gross needs shown as positive magnitudes; principal excludes T-bill redemptions."
+fiscal,abp21,printed p.3,2021/22,2022-06-30,published_plan,revenue,2125,KES_billion,2125.0,KES_billion,
+fiscal,abp21,printed p.3,2021/22,2022-06-30,published_plan,grants,66,KES_billion,66.0,KES_billion,
+fiscal,abp21,printed p.3,2021/22,2022-06-30,published_plan,total_expenditure,3215,KES_billion,3215.0,KES_billion,
+fiscal,abp21,printed p.3,2021/22,2022-06-30,published_plan,fiscal_deficit,1024,KES_billion,1024.0,KES_billion,
+fiscal,abp22,"Table 1, printed p.1",2022/23,2023-06-30,published_plan,revenue,2462.36,KES_billion,2462.36,KES_billion,
+fiscal,abp22,"Table 1, printed p.1",2022/23,2023-06-30,published_plan,grants,33.32,KES_billion,33.32,KES_billion,
+fiscal,abp22,"Table 1, printed p.1",2022/23,2023-06-30,published_plan,total_expenditure,3358.6,KES_billion,3358.6,KES_billion,
+fiscal,abp22,"Table 1, printed p.1",2022/23,2023-06-30,published_plan,fiscal_deficit,862.92,KES_billion,862.92,KES_billion,
+debt,dm26,"Table 3, printed p.13",2021/22,2022-06-30,actual,public_debt,8761418,KES_million,8761.418,KES_billion,
+debt,dm26,"Table 3, printed p.13",2022/23,2023-06-30,actual,public_debt,10278879,KES_million,10278.879,KES_billion,
+debt,dm26,"Table 3, printed p.13",2023/24,2024-06-30,actual,public_debt,10580455,KES_million,10580.455,KES_billion,
+debt,dm26,"Table 3, printed p.13",2024/25,2025-06-30,actual,public_debt,11814474,KES_million,11814.474,KES_billion,
+debt,dm26,"Table 3, printed p.13",2025/26,2026-06-30,provisional_actual,public_debt,13120868,KES_million,13120.868,KES_billion,
+debt,dm26,"Table 3, printed p.13",2021/22,2022-06-30,actual,external_debt,4334791,KES_million,4334.791,KES_billion,
+debt,dm26,"Table 3, printed p.13",2022/23,2023-06-30,actual,external_debt,5446561,KES_million,5446.561,KES_billion,
+debt,dm26,"Table 3, printed p.13",2023/24,2024-06-30,actual,external_debt,5171704,KES_million,5171.704,KES_billion,
+debt,dm26,"Table 3, printed p.13",2024/25,2025-06-30,actual,external_debt,5488465,KES_million,5488.465,KES_billion,
+debt,dm26,"Table 3, printed p.13",2025/26,2026-06-30,provisional_actual,external_debt,5793666,KES_million,5793.666,KES_billion,
+debt,dm26,"Table 3, printed p.13",2021/22,2022-06-30,actual,domestic_debt,4426627,KES_million,4426.627,KES_billion,
+debt,dm26,"Table 3, printed p.13",2022/23,2023-06-30,actual,domestic_debt,4832318,KES_million,4832.318,KES_billion,
+debt,dm26,"Table 3, printed p.13",2023/24,2024-06-30,actual,domestic_debt,5408751,KES_million,5408.751,KES_billion,
+debt,dm26,"Table 3, printed p.13",2024/25,2025-06-30,actual,domestic_debt,6326009,KES_million,6326.009,KES_billion,
+debt,dm26,"Table 3, printed p.13",2025/26,2026-06-30,provisional_actual,domestic_debt,7327202,KES_million,7327.202,KES_billion,
+debt,dm26,"Table 3, printed p.13",2021/22,2022-06-30,actual,nominal_gdp,12752164,KES_million,12752.164,KES_billion,
+debt,dm26,"Table 3, printed p.13",2022/23,2023-06-30,actual,nominal_gdp,14274419,KES_million,14274.419,KES_billion,
+debt,dm26,"Table 3, printed p.13",2023/24,2024-06-30,actual,nominal_gdp,15826415,KES_million,15826.415,KES_billion,
+debt,dm26,"Table 3, printed p.13",2024/25,2025-06-30,actual,nominal_gdp,17434534,KES_million,17434.534,KES_billion,
+debt,dm26,"Table 3, printed p.13",2025/26,2026-06-30,provisional_actual,nominal_gdp,18642472,KES_million,18642.472,KES_billion,
+debt,dm26,"Table 3, printed p.13",2021/22,2022-06-30,actual,debt_to_gdp,68.7,percent,68.7,percent,
+debt,dm26,"Table 3, printed p.13",2022/23,2023-06-30,actual,debt_to_gdp,72,percent,72.0,percent,
+debt,dm26,"Table 3, printed p.13",2023/24,2024-06-30,actual,debt_to_gdp,66.9,percent,66.9,percent,
+debt,dm26,"Table 3, printed p.13",2024/25,2025-06-30,actual,debt_to_gdp,67.8,percent,67.8,percent,
+debt,dm26,"Table 3, printed p.13",2025/26,2026-06-30,provisional_actual,debt_to_gdp,70.4,percent,70.4,percent,
+debt,dm26,"Table 3, printed p.13",2021/22,2022-06-30,actual,pv_debt_to_gdp,63.1,percent,63.1,percent,
+debt,dm26,"Table 3, printed p.13",2022/23,2023-06-30,actual,pv_debt_to_gdp,64.4,percent,64.4,percent,
+debt,dm26,"Table 3, printed p.13",2023/24,2024-06-30,actual,pv_debt_to_gdp,64.4,percent,64.4,percent,
+debt,dm26,"Table 3, printed p.13",2024/25,2025-06-30,actual,pv_debt_to_gdp,63.7,percent,63.7,percent,
+debt,dm26,"Table 3, printed p.13",2025/26,2026-06-30,provisional_actual,pv_debt_to_gdp,65.6,percent,65.6,percent,
+debt,dm26,"Table 3, printed p.13",2021/22,2022-06-30,actual,real_gdp_growth,4.8,percent,4.8,percent,
+debt,dm26,"Table 3, printed p.13",2022/23,2023-06-30,actual,real_gdp_growth,5.3,percent,5.3,percent,
+debt,dm26,"Table 3, printed p.13",2023/24,2024-06-30,actual,real_gdp_growth,5.6,percent,5.6,percent,
+debt,dm26,"Table 3, printed p.13",2024/25,2025-06-30,actual,real_gdp_growth,4.9,percent,4.9,percent,
+debt,dm26,"Table 3, printed p.13",2025/26,2026-06-30,provisional_actual,real_gdp_growth,5.1,percent,5.1,percent,
+debt_service,dm26,"Table 4, printed pp.15–16",2021/22,2022-06-30,actual,total_debt_service,917778,KES_million,917.778,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2022/23,2023-06-30,actual,total_debt_service,1202075,KES_million,1202.075,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2023/24,2024-06-30,actual,total_debt_service,1580766,KES_million,1580.766,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2024/25,2025-06-30,actual,total_debt_service,1722104,KES_million,1722.104,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2025/26,2026-06-30,actual,total_debt_service,1872138,KES_million,1872.138,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2021/22,2022-06-30,actual,total_interest,577979,KES_million,577.979,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2022/23,2023-06-30,actual,total_interest,689327,KES_million,689.327,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2023/24,2024-06-30,actual,total_interest,843846,KES_million,843.846,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2024/25,2025-06-30,actual,total_interest,987495,KES_million,987.495,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2025/26,2026-06-30,actual,total_interest,1071589,KES_million,1071.589,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2021/22,2022-06-30,actual,external_debt_service,305666,KES_million,305.666,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2022/23,2023-06-30,actual,external_debt_service,405004,KES_million,405.004,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2023/24,2024-06-30,actual,external_debt_service,773406,KES_million,773.406,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2024/25,2025-06-30,actual,external_debt_service,579042,KES_million,579.042,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2025/26,2026-06-30,actual,external_debt_service,716104,KES_million,716.104,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2021/22,2022-06-30,actual,external_principal,184536,KES_million,184.536,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2022/23,2023-06-30,actual,external_principal,248776,KES_million,248.776,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2023/24,2024-06-30,actual,external_principal,552104,KES_million,552.104,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2024/25,2025-06-30,actual,external_principal,367804,KES_million,367.804,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2025/26,2026-06-30,actual,external_principal,504344,KES_million,504.344,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2021/22,2022-06-30,actual,external_interest,121130,KES_million,121.13,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2022/23,2023-06-30,actual,external_interest,156229,KES_million,156.229,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2023/24,2024-06-30,actual,external_interest,221302,KES_million,221.302,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2024/25,2025-06-30,actual,external_interest,211238,KES_million,211.238,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2025/26,2026-06-30,actual,external_interest,211760,KES_million,211.76,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2021/22,2022-06-30,actual,domestic_debt_service,612112,KES_million,612.112,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2022/23,2023-06-30,actual,domestic_debt_service,797071,KES_million,797.071,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2023/24,2024-06-30,actual,domestic_debt_service,807360,KES_million,807.36,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2024/25,2025-06-30,actual,domestic_debt_service,1143062,KES_million,1143.062,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2025/26,2026-06-30,actual,domestic_debt_service,1156034,KES_million,1156.034,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2021/22,2022-06-30,actual,domestic_interest,456849,KES_million,456.849,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2022/23,2023-06-30,actual,domestic_interest,533098,KES_million,533.098,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2023/24,2024-06-30,actual,domestic_interest,622544,KES_million,622.544,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2024/25,2025-06-30,actual,domestic_interest,776257,KES_million,776.257,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2025/26,2026-06-30,actual,domestic_interest,859829,KES_million,859.829,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2021/22,2022-06-30,actual,domestic_principal,155263,KES_million,155.263,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2022/23,2023-06-30,actual,domestic_principal,263973,KES_million,263.973,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2023/24,2024-06-30,actual,domestic_principal,184816,KES_million,184.816,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2024/25,2025-06-30,actual,domestic_principal,366805,KES_million,366.805,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2025/26,2026-06-30,actual,domestic_principal,296205,KES_million,296.205,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2021/22,2022-06-30,actual,ordinary_revenue,1917911,KES_million,1917.911,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2022/23,2023-06-30,actual,ordinary_revenue,2041119,KES_million,2041.119,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2023/24,2024-06-30,actual,ordinary_revenue,2288921,KES_million,2288.921,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2024/25,2025-06-30,actual,ordinary_revenue,2420174,KES_million,2420.174,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed pp.15–16",2025/26,2026-06-30,actual,ordinary_revenue,2588401,KES_million,2588.401,KES_billion,Domestic principal excludes T-bill redemptions.
+debt_service,dm26,"Table 4, printed p.15",2021/22,2022-06-30,actual,debt_service_to_ordinary_revenue,47.9,percent,47.9,percent,
+debt_service,dm26,"Table 4, printed p.15",2022/23,2023-06-30,actual,debt_service_to_ordinary_revenue,58.9,percent,58.9,percent,
+debt_service,dm26,"Table 4, printed p.15",2023/24,2024-06-30,actual,debt_service_to_ordinary_revenue,69.1,percent,69.1,percent,
+debt_service,dm26,"Table 4, printed p.15",2024/25,2025-06-30,actual,debt_service_to_ordinary_revenue,71.2,percent,71.2,percent,
+debt_service,dm26,"Table 4, printed p.15",2025/26,2026-06-30,actual,debt_service_to_ordinary_revenue,72.3,percent,72.3,percent,
+debt_service,dm26,"Table 4, printed p.15",2021/22,2022-06-30,actual,interest_to_ordinary_revenue,30.1,percent,30.1,percent,
+debt_service,dm26,"Table 4, printed p.15",2022/23,2023-06-30,actual,interest_to_ordinary_revenue,33.8,percent,33.8,percent,
+debt_service,dm26,"Table 4, printed p.15",2023/24,2024-06-30,actual,interest_to_ordinary_revenue,36.9,percent,36.9,percent,
+debt_service,dm26,"Table 4, printed p.15",2024/25,2025-06-30,actual,interest_to_ordinary_revenue,40.8,percent,40.8,percent,
+debt_service,dm26,"Table 4, printed p.15",2025/26,2026-06-30,actual,interest_to_ordinary_revenue,41.4,percent,41.4,percent,
+borrowing,abp25,§2 Review of prior plan,2024/25,2025-06-30,actual,net_financing,1032.8,KES_billion,1032.8,KES_billion,
+borrowing,abp25,§2 Review of prior plan,2024/25,2025-06-30,actual,net_domestic_financing,853.4,KES_billion,853.4,KES_billion,
+borrowing,abp25,§2 Review of prior plan,2024/25,2025-06-30,actual,net_external_financing,178.9,KES_billion,178.9,KES_billion,
+borrowing,abp25,§2 Review of prior plan,2024/25,2025-06-30,revised_target,net_financing,1012.3,KES_billion,1012.3,KES_billion,
+borrowing,abp25,§2 Review of prior plan,2024/25,2025-06-30,revised_target,net_domestic_financing,825.8,KES_billion,825.8,KES_billion,
+borrowing,abp25,§2 Review of prior plan,2024/25,2025-06-30,revised_target,net_external_financing,186.5,KES_billion,186.5,KES_billion,
+borrowing,abp26,§2 Review of prior plan,2025/26,2026-06-30,actual,net_financing,1252.5,KES_billion,1252.5,KES_billion,
+borrowing,abp26,§2 Review of prior plan,2025/26,2026-06-30,actual,net_domestic_financing,985.2,KES_billion,985.2,KES_billion,
+borrowing,abp26,§2 Review of prior plan,2025/26,2026-06-30,actual,net_external_financing,267.3,KES_billion,267.3,KES_billion,
+borrowing,abp26,§2 Review of prior plan,2025/26,2026-06-30,revised_target,net_financing,1357.7,KES_billion,1357.7,KES_billion,
+borrowing,abp26,§2 Review of prior plan,2025/26,2026-06-30,revised_target,net_domestic_financing,973.6,KES_billion,973.6,KES_billion,
+borrowing,abp26,§2 Review of prior plan,2025/26,2026-06-30,revised_target,net_external_financing,384,KES_billion,384.0,KES_billion,
+borrowing,dm26,"Table 2, printed p.10",2024/25,2025-06-30,actual,net_financing,1034.2,KES_billion,1034.2,KES_billion,
+borrowing,dm26,"Table 2, printed p.10",2024/25,2025-06-30,actual,net_external_financing,179.7,KES_billion,179.7,KES_billion,
+borrowing,dm26,"Table 2, printed p.10",2024/25,2025-06-30,revised_target,net_financing,1012.3,KES_billion,1012.3,KES_billion,
+borrowing,dm26,"Table 2, printed p.10",2024/25,2025-06-30,revised_target,net_external_financing,186.5,KES_billion,186.5,KES_billion,
+borrowing,dm26,"Table 2, printed p.10",2025/26,2026-06-30,actual,net_financing,1251.1,KES_billion,1251.1,KES_billion,
+borrowing,dm26,"Table 2, printed p.10",2025/26,2026-06-30,actual,net_external_financing,267.4,KES_billion,267.4,KES_billion,
+borrowing,dm26,"Table 2, printed p.10",2025/26,2026-06-30,revised_target,net_financing,1357.7,KES_billion,1357.7,KES_billion,
+borrowing,dm26,"Table 2, printed p.10",2025/26,2026-06-30,revised_target,net_external_financing,384,KES_billion,384.0,KES_billion,
+debt,abp26,§1.4 printed p.3,2025/26,2026-06-30,actual,public_debt,13013.2,KES_billion,13013.2,KES_billion,
+debt,abp26,§1.4 printed p.3,2025/26,2026-06-30,actual,domestic_debt,7328.5,KES_billion,7328.5,KES_billion,
+debt,abp26,§1.4 printed p.3,2025/26,2026-06-30,actual,external_debt,5684.7,KES_billion,5684.7,KES_billion,
+debt,abp23,§1.2 printed p.1,2022/23,2023-06-30,provisional_actual,public_debt,10278.67,KES_billion,10278.67,KES_billion,
+debt,abp23,§1.2 printed p.1,2022/23,2023-06-30,provisional_actual,domestic_debt,4832.11,KES_billion,4832.11,KES_billion,
+debt,abp23,§1.2 printed p.1,2022/23,2023-06-30,provisional_actual,external_debt,5446.56,KES_billion,5446.56,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2021/22,2022-06-30,actual,bilateral,1105737,KES_million,1105.737,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2022/23,2023-06-30,actual,bilateral,1257498,KES_million,1257.498,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2023/24,2024-06-30,actual,bilateral,1092689,KES_million,1092.689,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2024/25,2025-06-30,actual,bilateral,1032812,KES_million,1032.812,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2025/26,2026-06-30,actual,bilateral,990065,KES_million,990.065,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2021/22,2022-06-30,actual,multilateral,1923444,KES_million,1923.444,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2022/23,2023-06-30,actual,multilateral,2654934,KES_million,2654.934,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2023/24,2024-06-30,actual,multilateral,2786948,KES_million,2786.948,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2024/25,2025-06-30,actual,multilateral,3045391,KES_million,3045.391,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2025/26,2026-06-30,actual,multilateral,3180402,KES_million,3180.402,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2021/22,2022-06-30,actual,commercial,1113256,KES_million,1113.256,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2022/23,2023-06-30,actual,commercial,1349052,KES_million,1349.052,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2023/24,2024-06-30,actual,commercial,1178364,KES_million,1178.364,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2024/25,2025-06-30,actual,commercial,1312602,KES_million,1312.602,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2025/26,2026-06-30,actual,commercial,1538663,KES_million,1538.663,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2021/22,2022-06-30,actual,suppliers_credit,12154,KES_million,12.154,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2022/23,2023-06-30,actual,suppliers_credit,14848,KES_million,14.848,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2023/24,2024-06-30,actual,suppliers_credit,13537,KES_million,13.537,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2024/25,2025-06-30,actual,suppliers_credit,14419,KES_million,14.419,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2025/26,2026-06-30,actual,suppliers_credit,14139,KES_million,14.139,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2021/22,2022-06-30,actual,guaranteed_bilateral,67532,KES_million,67.532,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2022/23,2023-06-30,actual,guaranteed_bilateral,82005,KES_million,82.005,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2023/24,2024-06-30,actual,guaranteed_bilateral,71026,KES_million,71.026,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2024/25,2025-06-30,actual,guaranteed_bilateral,73551,KES_million,73.551,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2025/26,2026-06-30,actual,guaranteed_bilateral,60688,KES_million,60.688,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2021/22,2022-06-30,actual,guaranteed_commercial,83712,KES_million,83.712,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2022/23,2023-06-30,actual,guaranteed_commercial,88224,KES_million,88.224,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2023/24,2024-06-30,actual,guaranteed_commercial,29139,KES_million,29.139,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2024/25,2025-06-30,actual,guaranteed_commercial,9690,KES_million,9.69,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2025/26,2026-06-30,actual,guaranteed_commercial,9710,KES_million,9.71,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2021/22,2022-06-30,actual,external_debt_total,4305835,KES_million,4305.835,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2022/23,2023-06-30,actual,external_debt_total,5446561,KES_million,5446.561,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2023/24,2024-06-30,actual,external_debt_total,5171703,KES_million,5171.703,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2024/25,2025-06-30,actual,external_debt_total,5488465,KES_million,5488.465,KES_billion,
+creditors,dm26,"Table 10, printed p.31",2025/26,2026-06-30,actual,external_debt_total,5793666,KES_million,5793.666,KES_billion,
+macro,abp26,"Table 1, printed p.2",2024/25,2025-06-30,preliminary_actual,real_gdp_growth,4.6,percent,4.6,percent,
+macro,abp26,"Table 1, printed p.2",2025/26,2026-06-30,preliminary_actual,real_gdp_growth,4.8,percent,4.8,percent,
+macro,abp26,"Table 1, printed p.2",2026/27,2027-06-30,projection,real_gdp_growth,5,percent,5.0,percent,
+macro,abp26,"Table 1, printed p.2",2027/28,2028-06-30,projection,real_gdp_growth,5.1,percent,5.1,percent,
+macro,abp26,"Table 1, printed p.2",2028/29,2029-06-30,projection,real_gdp_growth,5.2,percent,5.2,percent,
+macro,abp26,"Table 1, printed p.2",2029/30,2030-06-30,projection,real_gdp_growth,5.3,percent,5.3,percent,
+macro,abp26,"Table 1, printed p.2",2024/25,2025-06-30,preliminary_actual,gdp_deflator,3.1,percent,3.1,percent,
+macro,abp26,"Table 1, printed p.2",2025/26,2026-06-30,preliminary_actual,gdp_deflator,4.9,percent,4.9,percent,
+macro,abp26,"Table 1, printed p.2",2026/27,2027-06-30,projection,gdp_deflator,6.1,percent,6.1,percent,
+macro,abp26,"Table 1, printed p.2",2027/28,2028-06-30,projection,gdp_deflator,5.8,percent,5.8,percent,
+macro,abp26,"Table 1, printed p.2",2028/29,2029-06-30,projection,gdp_deflator,5.4,percent,5.4,percent,
+macro,abp26,"Table 1, printed p.2",2029/30,2030-06-30,projection,gdp_deflator,5.4,percent,5.4,percent,
+macro,abp26,"Table 1, printed p.2",2024/25,2025-06-30,preliminary_actual,inflation,4.3,percent,4.3,percent,
+macro,abp26,"Table 1, printed p.2",2025/26,2026-06-30,preliminary_actual,inflation,4.7,percent,4.7,percent,
+macro,abp26,"Table 1, printed p.2",2026/27,2027-06-30,projection,inflation,5.5,percent,5.5,percent,
+macro,abp26,"Table 1, printed p.2",2027/28,2028-06-30,projection,inflation,5.2,percent,5.2,percent,
+macro,abp26,"Table 1, printed p.2",2028/29,2029-06-30,projection,inflation,4.8,percent,4.8,percent,
+macro,abp26,"Table 1, printed p.2",2029/30,2030-06-30,projection,inflation,4.8,percent,4.8,percent,
+macro,abp26,"Table 1, printed p.2",2024/25,2025-06-30,preliminary_actual,fiscal_balance_to_gdp,-5.9,percent,-5.9,percent,
+macro,abp26,"Table 1, printed p.2",2025/26,2026-06-30,preliminary_actual,fiscal_balance_to_gdp,-6.8,percent,-6.8,percent,
+macro,abp26,"Table 1, printed p.2",2026/27,2027-06-30,projection,fiscal_balance_to_gdp,-5.5,percent,-5.5,percent,
+macro,abp26,"Table 1, printed p.2",2027/28,2028-06-30,projection,fiscal_balance_to_gdp,-3.9,percent,-3.9,percent,
+macro,abp26,"Table 1, printed p.2",2028/29,2029-06-30,projection,fiscal_balance_to_gdp,-3.6,percent,-3.6,percent,
+macro,abp26,"Table 1, printed p.2",2029/30,2030-06-30,projection,fiscal_balance_to_gdp,-3.4,percent,-3.4,percent,
+risk,dm26,"Table 1, printed p.6",2025/26,2026-06-30,revised_target,debt_maturing_1yr_share,11.9,percent,11.9,percent,
+risk,dm26,"Table 1, printed p.6",2025/26,2026-06-30,revised_target,debt_maturing_1yr_to_gdp,7.5,percent,7.5,percent,
+risk,dm26,"Table 1, printed p.6",2025/26,2026-06-30,revised_target,interest_to_gdp,5.1,percent,5.1,percent,
+risk,dm26,"Table 1, printed p.6",2025/26,2026-06-30,actual,debt_maturing_1yr_share,12.7,percent,12.7,percent,
+risk,dm26,"Table 1, printed p.6",2025/26,2026-06-30,actual,debt_maturing_1yr_to_gdp,9.7,percent,9.7,percent,
+risk,dm26,"Table 1, printed p.6",2025/26,2026-06-30,actual,interest_to_gdp,6.2,percent,6.2,percent,
+risk,dm26,Executive summary p.xvi,2025/26,2026-06-30,actual,debt_maturing_1yr_share,12.5,percent,12.5,percent,
+risk,dm26,Executive summary p.xvi,2025/26,2026-06-30,actual,average_time_to_maturity,8.6,years,8.6,years,
