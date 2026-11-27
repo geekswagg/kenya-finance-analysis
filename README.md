@@ -1,6 +1,12 @@
 # Kenya Finance Analysis
 
-An open-source project to make Kenya's public finance and economic data traceable and queryable.
+Kenya Finance Analysis turns Kenyan public-finance policy documents and reports into verified, source-linked datasets for financial education. A golden dataset is a reviewed, versioned release of figures and policy assumptions with reproducible checks and documented discrepancies.
+
+| Learning tier | What learners explore |
+| --- | --- |
+| Sovereign | How Kenya plans revenue and spending, finances deficits and manages debt. |
+| Business | How comparable concepts apply to cash flow, capital allocation and refinancing, with the limits of the comparison made explicit. |
+| Personal | How budgeting, borrowing costs and cash buffers affect household decisions. This tier anchors the future product. |
 
 The first release targets FY 2021/22 through FY 2026/27. The starter dataset and all 11 Treasury documents have been located and checked locally. The starter dataset is attributed to Kenya's National Treasury. The project code is MIT licensed. See the [M0 handover](docs/HANDOVER.md) for the baseline and issue sequence.
 

@@ -2,7 +2,11 @@
 
 ## Research objective
 
-Build a reproducible, source-linked study of Kenyan public finance. Start with borrowing, debt stocks, debt service, fiscal performance and risk. Use the eventual dashboard to teach budgeting, liquidity, capital allocation and refinancing, with explicit limits on sovereign comparisons to households or businesses.
+Convert Kenyan public-finance policy documents and reports into golden datasets that support learning across sovereign, business and personal finance. Start with borrowing, debt stocks, debt service, fiscal performance and risk. The personal tier anchors the future product.
+
+The sovereign tier uses sourced Kenyan fiscal observations. The business and personal tiers use explicitly labeled examples and assumptions to teach comparable concepts. Keep those examples separate from source observations and explain differences in borrowing powers, revenue and risk. Lessons and eventual product features should link back to the relevant concept and evidence.
+
+M0 establishes the evidence base. Record the source edition, printed locator, units and status for every figure. Keep policy targets and projections distinct from outturns, preserve competing values, and carry unresolved discrepancies into each versioned release. Validate and review the dataset before building the learning experiences.
 
 ## M0 baseline
 
