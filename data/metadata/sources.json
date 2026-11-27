@@ -40,5 +40,11 @@
     "filename": "Annual Debt Management Reports 2025-2026.pdf",
     "publication_month": null,
     "sha256": "169db86cc5fe4ae00bccefd5e030a37a9f5126a5010f20dd16d07cdcb13dd85f"
+  },
+  {
+    "source_id": "dm22",
+    "filename": "Annual-Public-Debt-Report-2021-2022.pdf",
+    "publication_month": null,
+    "sha256": "5e6202ee3bf78abd666985b5107d3db4befeccf81c544c5cde3aad9d518e68ba"
   }
 ]

@@ -2,7 +2,11 @@
 
 ## Research objective
 
-Build a reproducible, source-linked study of Kenyan public finance. Start with borrowing, debt stocks, debt service, fiscal performance and risk. Use the eventual dashboard to teach budgeting, liquidity, capital allocation and refinancing, with explicit limits on sovereign comparisons to households or businesses.
+Convert Kenyan public-finance policy documents and reports into golden datasets that support learning across sovereign, business and personal finance. Start with borrowing, debt stocks, debt service, fiscal performance and risk. The personal tier anchors the future product.
+
+The sovereign tier uses sourced Kenyan fiscal observations. The business and personal tiers use explicitly labeled examples and assumptions to teach comparable concepts. Keep those examples separate from source observations and explain differences in borrowing powers, revenue and risk. Lessons and eventual product features should link back to the relevant concept and evidence.
+
+M0 establishes the evidence base. Record the source edition, printed locator, units and status for every figure. Keep policy targets and projections distinct from outturns, preserve competing values, and carry unresolved discrepancies into each versioned release. Validate and review the dataset before building the learning experiences.
 
 ## M0 baseline
 
@@ -14,7 +18,7 @@ The supplied starter is staged under the ignored `data/incoming/starter-v0.1/` d
 
 | Fiscal year | Annual borrowing plan | Annual debt report |
 | --- | --- | --- |
-| 2021/22 | abp21, partial | dm22, pending |
+| 2021/22 | abp21, partial | dm22, debt stocks only |
 | 2022/23 | abp22, partial | dm23, pending |
 | 2023/24 | abp23, partial | dm24, pending |
 | 2024/25 | abp24, partial | dm25, pending |
@@ -36,7 +40,20 @@ Use the existing [Foundation milestone](https://github.com/geekswagg/kenya-finan
 | 1 | [Source intake](https://github.com/geekswagg/kenya-finance-analysis/issues/1) | Confirm code and data licensing, register eleven official editions with checksums and URLs, and document attribution and PDF redistribution terms. |
 | 2 | [Starter import](https://github.com/geekswagg/kenya-finance-analysis/issues/2) | Import the approved starter files with reproducible rebuild, reconcile schemas without losing statuses, and record source coverage by year, table and metric. |
 | 3 | [Extraction](https://github.com/geekswagg/kenya-finance-analysis/issues/3) | Start with one historical debt-stock table, verify its cells visually, test the debt identity using source precision, then extend to the other reports. |
-| 4 | [Data quality](https://github.com/geekswagg/kenya-finance-analysis/issues/4) | Check CSV/JSON parity, source integrity and accounting identities. Add a discrepancy comparison across metric aliases and publication statuses. Re-run Actions after the billing lock is resolved. |
+| 4 | [Data quality](https://github.com/geekswagg/kenya-finance-analysis/issues/4) | Check CSV/JSON parity, source integrity and accounting identities. Add a discrepancy comparison across metric aliases and publication statuses. Run the checks through Azure Pipelines. |
 | 5 | [Foundation release](https://github.com/geekswagg/kenya-finance-analysis/issues/5) | Verify DuckDB queries, document known discrepancies and gaps, and confirm release rights before tagging. |
 
 Later work extends historical debt coverage, fiscal actuals and macro indicators. ASP.NET Core and Blazor are scheduled after the data foundation.
+
+## First historical debt increment
+
+The FY 2021/22 report matches the official Treasury download by SHA-256. The June 2022 column of Table 4.0-1 (printed page 10) was visually checked. The import adds three provisional stocks in KES million, with row and column locators. External debt includes publicly guaranteed debt. Prior-year columns and other line items are outside this increment.
+
+The validator checks the domestic and external sum against the published total within KES 1 million. The published components sum exactly. Differences against the FY 2025/26 report's FY 2021/22 figures are retained as three publication-vintage review flags.
+
+
+## Azure Pipelines
+
+The root `azure-pipelines.yml` runs the unit tests, bootstrap validation, starter rebuild, starter validation and generated-data diff check. It builds the GitHub repository directly. The public inputs and checks require neither raw Treasury PDFs nor pipeline secrets. GitHub pull requests and issues remain the project workflow.
+
+The Azure DevOps pipeline definition should use the GitHub repository and its root YAML file. Use a repository-scoped GitHub connection and leave secrets unavailable to fork builds. During the stacked review, the YAML also accepts pull requests into the starter branch.

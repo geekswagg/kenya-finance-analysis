@@ -35,6 +35,16 @@ for metric,vals in {'real_gdp_growth':[4.6,4.8,5,5.1,5.2,5.3],'gdp_deflator':[3.
 for status,vals in [('revised_target',[11.9,7.5,5.1]),('actual',[12.7,9.7,6.2])]: add('risk','dm26','Table 1, printed p.6',years[4],status,dict(zip(['debt_maturing_1yr_share','debt_maturing_1yr_to_gdp','interest_to_gdp'],vals)),'percent')
 add('risk','dm26','Executive summary p.xvi',years[4],'actual',{'debt_maturing_1yr_share':12.5},'percent')
 add('risk','dm26','Executive summary p.xvi',years[4],'actual',{'average_time_to_maturity':8.6},'years')
+# Printed page 10 uses the provisional June 2022 column.
+for metric, label, value in (
+    ("public_debt", "GRAND TOTAL", 8588281),
+    ("domestic_debt", "Total Gross Domestic", 4288333),
+    ("external_debt", "Total External debt", 4299948),
+):
+    add("debt", "dm22", f"Table 4.0-1, printed p.10, {label}, Jun-2022*",
+        "2021/22", "provisional_actual", {metric: value}, "KES_million",
+        "External debt includes publicly guaranteed debt.")
+
 for name,subset in [('observations',rows)]+[(d,[r for r in rows if r['domain']==d]) for d in sorted({r['domain'] for r in rows})]:
  with (OUT/f'{name}.csv').open('w',newline='',encoding='utf-8') as f: w=csv.DictWriter(f,fieldnames=list(rows[0]),lineterminator='\n');w.writeheader();w.writerows(subset)
  (OUT/f'{name}.json').write_text(json.dumps(subset,indent=2),encoding='utf-8')
