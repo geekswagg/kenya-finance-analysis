@@ -36,7 +36,7 @@ Use the existing [Foundation milestone](https://github.com/geekswagg/kenya-finan
 | 1 | [Source intake](https://github.com/geekswagg/kenya-finance-analysis/issues/1) | Confirm code and data licensing, register eleven official editions with checksums and URLs, and document attribution and PDF redistribution terms. |
 | 2 | [Starter import](https://github.com/geekswagg/kenya-finance-analysis/issues/2) | Import the approved starter files with reproducible rebuild, reconcile schemas without losing statuses, and record source coverage by year, table and metric. |
 | 3 | [Extraction](https://github.com/geekswagg/kenya-finance-analysis/issues/3) | Start with one historical debt-stock table, verify its cells visually, test the debt identity using source precision, then extend to the other reports. |
-| 4 | [Data quality](https://github.com/geekswagg/kenya-finance-analysis/issues/4) | Check CSV/JSON parity, source integrity and accounting identities. Add a discrepancy comparison across metric aliases and publication statuses. Re-run Actions after the billing lock is resolved. |
+| 4 | [Data quality](https://github.com/geekswagg/kenya-finance-analysis/issues/4) | Check CSV/JSON parity, source integrity and accounting identities. Add a discrepancy comparison across metric aliases and publication statuses. Run the checks through Azure Pipelines. |
 | 5 | [Foundation release](https://github.com/geekswagg/kenya-finance-analysis/issues/5) | Verify DuckDB queries, document known discrepancies and gaps, and confirm release rights before tagging. |
 
 Later work extends historical debt coverage, fiscal actuals and macro indicators. ASP.NET Core and Blazor are scheduled after the data foundation.
@@ -46,3 +46,10 @@ Later work extends historical debt coverage, fiscal actuals and macro indicators
 The FY 2021/22 report matches the official Treasury download by SHA-256. The June 2022 column of Table 4.0-1 (printed page 10) was visually checked. The import adds three provisional stocks in KES million, with row and column locators. External debt includes publicly guaranteed debt. Prior-year columns and other line items are outside this increment.
 
 The validator checks the domestic and external sum against the published total within KES 1 million. The published components sum exactly. Differences against the FY 2025/26 report's FY 2021/22 figures are retained as three publication-vintage review flags.
+
+
+## Azure Pipelines
+
+The root `azure-pipelines.yml` runs the unit tests, bootstrap validation, starter rebuild, starter validation and generated-data diff check. It builds the GitHub repository directly. The public inputs and checks require neither raw Treasury PDFs nor pipeline secrets. GitHub pull requests and issues remain the project workflow.
+
+The Azure DevOps pipeline definition should use the GitHub repository and its root YAML file. Use a repository-scoped GitHub connection and leave secrets unavailable to fork builds. During the stacked review, the YAML also accepts pull requests into the starter branch.

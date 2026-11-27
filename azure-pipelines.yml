@@ -1,0 +1,33 @@
+trigger:
+  branches:
+    include:
+      - main
+
+pr:
+  branches:
+    include:
+      - main
+      - alfred-ai/m0-starter
+
+pool:
+  vmImage: ubuntu-latest
+
+jobs:
+  - job: DataQuality
+    displayName: Data quality
+    steps:
+      - checkout: self
+        persistCredentials: false
+
+      - task: UsePythonVersion@0
+        inputs:
+          versionSpec: '3.12'
+
+      - bash: |
+          set -euo pipefail
+          python -m unittest discover -s pipeline
+          python pipeline/validate.py
+          python scripts/build.py
+          python scripts/validate.py
+          git diff --exit-code -- data/processed data/metadata
+        displayName: Test, rebuild and verify fiscal data
